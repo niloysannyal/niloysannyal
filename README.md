@@ -51,32 +51,16 @@
 ### 🧩 Featured Projects
 
 #### 🏠 [Dhaka Home Rent Prediction](https://github.com/niloysannyal/DhakaHomeRentPrediction)
-- End-to-end **real estate rent prediction web app** for properties in Dhaka 🏙️  
-- Built using **Python**, **Scikit-learn (Random Forest)**, and **Flask** for backend model deployment  
-- Interactive **HTML/CSS/JS** frontend allowing users to input features and get rent estimates  
-- Implemented **GridSearchCV**, **K-Fold CV**, and **feature engineering** for optimized accuracy  
-- Deployed on **Render** with a clean, user-friendly interface  
+Real estate rent prediction web app for Dhaka 🏙️ using **Python, Scikit-learn (Random Forest), Flask**; deployed on **Render**.
 
 #### ⚽ [Footballer Face Recognition](https://github.com/niloysannyal/FootballerFaceRecognition)
-- Multi-class **face recognition web app** identifying 10 professional footballers using **OpenCV** and **Scikit-learn** 🏟️  
-- Built with **Python**, **Flask** backend, and **HTML/CSS/JS** frontend for interactive predictions  
-- Features image upload, real-time classification, and visualization of results  
-- Project includes **dataset handling, model training notebooks, and deployment-ready server**  
-
+Multi-class face recognition web app identifying 10 professional footballers using **OpenCV, Scikit-learn**, and **Flask**.
 
 #### 🌱 [Crop Disease Classifier](https://github.com/niloysannyal/Crop_Disease_Classifier)
-- AI-powered web app for **plant disease detection** using **CNNs (TensorFlow & Keras)** 🌾  
-- Built with **Streamlit** and **FastAPI**, enabling users to upload crop leaf images and get real-time predictions with confidence scores  
-- Supports **Corn, Potato, Rice, and Wheat** classification through trained deep learning models  
-- Deployed on **Streamlit Cloud** with a modern, intuitive interface and visual result display  
-- Features: Image upload, live disease prediction, and multi-crop support  
+AI web app for plant disease detection 🌾 using **CNNs (TensorFlow & Keras)** with **Streamlit** and **FastAPI**; deployed on **Streamlit Cloud**.
 
 #### 🐼 [Panda Chatbot](https://github.com/niloysannyal/Hungry_Panda)
-- AI-powered **food ordering assistant** for the **Hungry Panda** website 🍔🍕🍟  
-- Built using **Dialogflow** and **FastAPI**, enabling users to browse menus, add/remove items, and place orders through natural conversation  
-- Integrated **MySQL** for order persistence and **Ngrok** for webhook tunneling  
-- Deployed on **Vercel** with a user-friendly frontend and live chatbot interface  
-- Features: menu browsing, order tracking, and interactive conversational UI  
+AI-powered food ordering assistant 🍔🍕🍟 using **Dialogflow** and **FastAPI**, integrated with **MySQL**, deployed on **Vercel** and **Railway**.
 
 ---
 
