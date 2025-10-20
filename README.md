@@ -58,8 +58,6 @@
 - Deployed on **Render** with a clean, user-friendly interface  
 
 #### ⚽ [Footballer Face Recognition](https://github.com/niloysannyal/Footballer-Face-Recognition)
-[![Live](https://img.shields.io/badge/LIVE-VISIT%20NOW-red?style=for-the-badge&logo=firefox)](https://footballerimageclassifier.onrender.com/)
-
 - Multi-class **face recognition web app** identifying 10 professional footballers using **OpenCV** and **Scikit-learn** 🏟️  
 - Built with **Python**, **Flask** backend, and **HTML/CSS/JS** frontend for interactive predictions  
 - Features image upload, real-time classification, and visualization of results  
