@@ -57,7 +57,7 @@
 - Implemented **GridSearchCV**, **K-Fold CV**, and **feature engineering** for optimized accuracy  
 - Deployed on **Render** with a clean, user-friendly interface  
 
-#### ⚽ [Footballer Face Recognition](https://github.com/niloysannyal/Footballer-Face-Recognition)
+#### ⚽ [Footballer Face Recognition](https://github.com/niloysannyal/FootballerFaceRecognition)
 - Multi-class **face recognition web app** identifying 10 professional footballers using **OpenCV** and **Scikit-learn** 🏟️  
 - Built with **Python**, **Flask** backend, and **HTML/CSS/JS** frontend for interactive predictions  
 - Features image upload, real-time classification, and visualization of results  
@@ -71,7 +71,7 @@
 - Deployed on **Streamlit Cloud** with a modern, intuitive interface and visual result display  
 - Features: Image upload, live disease prediction, and multi-crop support  
 
-#### 🐼 [Panda Chatbot](https://github.com/niloysannyal/Panda-Chatbot)
+#### 🐼 [Panda Chatbot](https://github.com/niloysannyal/Hungry_Panda)
 - AI-powered **food ordering assistant** for the **Hungry Panda** website 🍔🍕🍟  
 - Built using **Dialogflow** and **FastAPI**, enabling users to browse menus, add/remove items, and place orders through natural conversation  
 - Integrated **MySQL** for order persistence and **Ngrok** for webhook tunneling  
