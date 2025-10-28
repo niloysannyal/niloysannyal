@@ -85,7 +85,7 @@ AI-powered food ordering assistant 🍔🍕🍟 using **Dialogflow** and **FastA
 
 <p align="center">
   <a href="mailto:niloysannyal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/niloy-sannyal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/niloysannyal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
   <a href="https://github.com/niloysannyal"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
 </p>
 
