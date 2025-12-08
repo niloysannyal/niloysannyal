@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm <a href="https://github.com/niloysannyal" target="_blank">Niloy Sannyal</a></h1>
-<h3 align="center">💻 Data Scientist | ML Engineer | Python Developer</h3>
+<h3 align="center">💻 Data Scientist | AI/ML Engineer | AI Developer</h3>
 
 ---
 
