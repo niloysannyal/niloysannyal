@@ -173,7 +173,7 @@ philosophy  : "Systems that think so humans can focus on what matters."
 
 | Platform | Solved | Level |
 |---|---|---|
-| 💡 LeetCode | 300+ problems | Consistent Problem Solver |
+| 💡 LeetCode | 350+ problems | Consistent Problem Solver |
 | ⚔️ Codeforces | 200+ problems | Algorithm Enthusiast |
 | 🧠 Focus Areas | DP · Graphs · Trees · Sliding Window | Strong algorithmic foundation |
 
