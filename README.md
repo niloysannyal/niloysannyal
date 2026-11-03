@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/followers/niloysannyal?label=Followers&style=flat&color=0e75b6" />
 </a>
 &nbsp;
-<a href="https://niloysannyal.github.io/Portfolio/">
+<a href="https://niloysannyal.me/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-2c5364?style=flat&logo=googlechrome&logoColor=white" />
 </a>
 
